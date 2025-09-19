@@ -1,0 +1,21 @@
+{
+  "name": "Timbea A Lo Leito Casino",
+  "short_name": "Timbea A Lo Leito Casino",
+  "description": "Create a compelling landing page for Timbea A Lo Leito online casino to attract new players, showcase gaming options, and drive user registration and deposits",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
